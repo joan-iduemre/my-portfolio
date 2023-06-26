@@ -95,6 +95,7 @@ body {
     width: 100%;
     padding: 10px;
     margin-bottom: 20px;
+    box-sizing: border-box; /* Add this line */  
   }
   
   #contact-form button {
