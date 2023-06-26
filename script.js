@@ -19,6 +19,9 @@ function smoothScroll(e) {
 
 
 
+/*
+
+
 
 const contactForm = document.getElementById('contact-form');
 const formStatus = document.getElementById('my-form-status');
@@ -87,6 +90,7 @@ async function handleSubmit(event) {
   contactForm.reset();
 }
 
+*/
 
 // Add active class to the navigation link corresponding to the current section
 window.addEventListener('scroll', highlightNavLink);
